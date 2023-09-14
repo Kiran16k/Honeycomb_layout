@@ -1,6 +1,6 @@
 import React from "react";
 import "./Image.css";
-import { randomData } from "../Data/Data";
+import { randomData } from "../Utils/Data";
 
 const InstaCards = () => {
   const rows = [];
