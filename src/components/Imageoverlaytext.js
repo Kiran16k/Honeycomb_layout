@@ -17,7 +17,6 @@ const InstaCards = () => {
             className="content-image"
             src={img.image}
             alt={`Img Post ${index}`}
-            height={"140px"}
           />
           <div className="content-details fadeIn-top">
             <h3 className="content-text1">{img.name}</h3>
